@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa076dce-af54-4d20-8a06-de6588b71351" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dao/ICustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dto/bankaccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dto/bankaccount/FixedDepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dto/bankaccount/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/dto/customer/CustomerModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/CustomerAlreadyHasBankAccountLinkedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/InvalidAgeRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/InvalidCustomerIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/InvalidPhoneNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/exceptions/OutOfRangeInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/service/IBankingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/banking/service/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/banking/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/dao/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/dto/dto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/exceptions/exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/banking/service/Service.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHlXiCdXi4p8EBuFZdabKUZm52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/learningMaterialsForPhary/C353/workspace/bankingsystemapplication-tech-and-me/lib/mysql-connector-java-5.1.49.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Controller" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banking.controller.Controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banking.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa076dce-af54-4d20-8a06-de6588b71351" name="Changes" comment="" />
+      <created>1685018428925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685018428925</updated>
+    </task>
+    <servers />
+  </component>
+</project>
